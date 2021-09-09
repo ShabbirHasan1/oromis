@@ -1,0 +1,5 @@
+login_id = "319455"
+password = "egsol2016"
+twofa = "1970"
+secret = "u2bNUCiTfO21VTDcnoTsgGXcPN7E2orENDjnGxffliGSyu8wyfsPhKoBt1dYeFOO"
+app_id="UnjkKPJu2O"
