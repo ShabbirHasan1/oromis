@@ -114,7 +114,7 @@ def run_strategy():
 		opts['sellSpread'] = (active['futBid'] + opts.putBid - opts.callAsk - opts.index)*lotSize
 
 
-		if (abhi.time()<datetime.time(9,15)):			
+		if (abhi.time()<datetime.time(9,18)):			
 			os.system('clear')
 			print(active)
 			sleep(1)
