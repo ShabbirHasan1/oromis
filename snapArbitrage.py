@@ -16,7 +16,7 @@ alice = ut.loginAlice()
 # quantity = 25
 
 ticker = 'NIFTY'
-fair = 2350
+fair = 363
 target = 400
 base = 50
 tradeStr = 17500
