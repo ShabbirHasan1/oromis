@@ -16,14 +16,15 @@ alice = ut.loginAlice()
 # quantity = 25
 
 ticker = 'NIFTY'
-fair = 363
+fair = 1516
 target = 400
 base = 50
 tradeStr = 17500
 ongoing = False #1 if buy spread, -1 if sell spread
 quantity = 50
 
-month_exp = datetime.datetime(2021,9,30,15,30,0)
+# month_exp = datetime.datetime(2021,9,30,15,30,0)
+month_exp = datetime.datetime(2021,10,28,15,30,0)
 week_exp = datetime.datetime(2021,9,16,15,30,0)
 
 strikes = [i for i in range(16500,18500,base)]
